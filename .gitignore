@@ -1,0 +1,22 @@
+# Compiled files
+*.o
+*~
+*.elc
+
+*.#
+
+# Byte-compiled Emacs Lisp files
+*.b
+
+# Automatically generated files that are not very interesting to track in version control
+.dir-locals.el
+.cvs-directory
+
+# Files used by some modes and packages (e.g., the "org-mode" package)
+.org-todo
+.org-agenda
+.org-babel-doctor/
+
+# Files used by the "magit" package for Emacs Git integration
+magit-cache/
+magit-dirty-status/
