@@ -1,0 +1,81 @@
+Sample Topics
+-------------
+
+This list is provided as a starting point for potential Colloquium topics. I've categorized them under several different headings; the hope is that we can select from a wide range of difficulty levels and problem domains to keep things fresh and interesting for everyone.
+
+* Ethical/Societal
+
+  AI & Creativity (art/music/writing)
+  How to spot AI generated text/images/audio
+  Technology/screen addiction
+  Online security (phishing, scams, etc.)
+  What is Open Source?  What is Free Software?
+  Risks and rewards of relying too strongly on AI
+  
+* General topics/Everyday technologies
+
+  How does WiFi work?
+  How do QR codes work
+  Recommender services -- how they work and where are they found
+  Search engines
+  Facial recognition
+  AI & Your Career
+  Online scams/security
+  Your car is a computer: what's going on in vehicular computing
+
+* Lighter topics
+
+  My favorite VS Code extensions/IDE tips
+  Getting good with Git
+  Comparison of available documentation/formatting approaches (Markdown, LaTex, Doxygen, VSDocman)
+  Using Python/Shell scripting for automating boring tasks (possible demo)
+  Beginning/intermediate operations with the command line (navigation, common commands, pipes, ssh/scp/rsync, process control, etc.)
+  Basic web development/design (possibly interesting for non-graphically talented developers)
+  Introduction to REST, building your own API and testing with postman/curl/wget
+  Introduction to SQLite
+  Overview of NoSQL databases (on-prem and cloud)
+
+* Special topics
+
+  "My favorite papers," let's compile a list of important milestones in CS and read/discuss several
+  History of computing--in the workplace (e.g., "What was Office Automation and what was it like?")
+  Job searching strategies
+  Interview preparation, github/portfolio development
+  Technology and the Faith: (how) are computers used in Biblical research?
+  Careers in computing and computing-adjacent fields
+
+* Deep dives
+
+  How your CPU actually works
+  Containers and virtual machines
+  Virtual memory/pagetables, maybe include caching
+  Garbage collection
+  Automotive Computer Systems (ECUs, CAN bus, GPS, over-the-air updates, etc.)
+  FP deep dive
+  Type systems and lambda calculus (-> Hindley-Milner)
+  Computer vision
+  Building your own AI/ML models
+  Webapp security (XSS, CORS, etc)
+  Side-channel attacks (spectre, meltdown etc)
+  System design: How to build twitter, spotify, etc.
+  Game engines and/or different generation techniques (Terrain maps, city, etc.)
+  Accessibility and assistive technology
+  What is HCI, possible research ideas 
+  Evolution of RDBMS design in 20th century, future directions
+  Data engineering for massive datasets (pipelines, ETL, streaming etc)
+
+* Student reports
+
+  Innovative ways of handling course projects/assignments
+  Present on work in progress (for senior capstone projects but also current side efforts)
+  Internships -- how to get, what happens on them, and how can they be helpful
+  
+* Experience reports
+
+  What first- or second-year students can expect in the program (advice to fresh/soph)
+  "Here's how my job/internship interview went!"
+  What my first job in technology was and what I've learned from it
+  Past recollections:  What it was like working during the 80s/90s/00s
+  I vibe-coded an app!  What did I learn and would I do it again?
+  
+
