@@ -1,5 +1,16 @@
+### Resume Creation
+
+#### Critique 
+
+Here are several sample resumes. Compare and contrast them. Which ones do you think are the best, and why?
+
+What can we learn from these examples?
+
+
+
 ### Major Resume Sections
 
+#### Here are the main sections you would probably want on your resume
 
 Name, Contact Information, LinkedIn, Github/Portfolio
 
@@ -13,7 +24,7 @@ Education & Certifications: Degrees (GPA if desired), vendor coursework, certifi
 
 Optional: Open source contributions, professional memberships, public mentions etc.
 
-### Some Helpful Header Ideas
+### General Good Advice
 
 You may feel your employment section is weak (especially if you are Junior level or still a student). Instead of
 having an "Employment," section (or above that section), have a section called "Projects," or similar. 
@@ -25,7 +36,7 @@ your core competencies (and list fewer skills) than risk feeling embarrassed by 
 comfort zone.
 
 Use minimal formatting--some resumes are very layout- and graphic-intensive, which may cause difficulty for
-an ATS (or even an opinionated human).
+an ATS (or even an opinionated human). Some people even print them out.
 
 Send a PDF; avoid *.docx files as some systems/people are worried about word macro viruses and won't open the file.
 
