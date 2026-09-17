@@ -13,10 +13,6 @@ Fall University Career + Internship Fair
 
 -----------------------------
 
-### Construction, Infrastructure & Engineering Technology
-
-
-    Opportunities in construction engineering, construction management, transportation engineering, and surveying. 
 
 ### Computing, Software, and Data Analytics 
 
