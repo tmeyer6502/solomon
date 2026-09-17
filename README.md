@@ -20,6 +20,7 @@ Su Mo Tu We Th Fr Sa
 27 28 29 30 31   
 ```
 
+
 ### Schedule
 
 September 3 - Faithful Automation (Gubanyi)
@@ -30,8 +31,8 @@ October 15 - Fall Break, No Colloquium
 October 22 - Panel Discussion: The Impact of AI on Society (tentative date & title)
 
 November 5 - RISC-V: An Open-Source Revolution for Microprocessors (Meyer)
-November 19 - *OPEN*
+November 19 - *OPEN* (possible lightning talk sessions, senior presentations)
 
-December 3 - *OPEN*
+December 3 - *OPEN* (possible lightning talk sessions, senior presentations)
 
 *See topics list for suggestions for TBD*
