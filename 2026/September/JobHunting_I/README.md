@@ -61,3 +61,5 @@ Outline:
 https://docs.google.com/spreadsheets/d/1tDxO-tikm-O7pB-K58B3I_XDH-G0tvIh8j85fU-XRY8/edit?usp=sharing
 
 At the conclusion of this, each team should be able to recommend 2-3 good/interesting employers to investigate!
+
+Stretch goal: This seems kind of ponderous. Is there a way to script this process using web scraping?
