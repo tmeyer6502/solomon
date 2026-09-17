@@ -24,15 +24,19 @@ Su Mo Tu We Th Fr Sa
 ### Schedule
 
 September 3 - Faithful Automation (Gubanyi)
+
 September 17 - Jobs: Resumes, Searching, and Career Fair Prep (Meyer, Group Workshop)
 
-October 1 - Student Check-in: Progress Report and Feedback + TBD
+October 1 - Student Check-in: Career Fair Debrief, Semester Progress Report, and Feedback + TBD
+
 October 15 - Fall Break, No Colloquium
+
 October 22 - Panel Discussion: The Impact of AI on Society (tentative date & title)
 
-November 5 - RISC-V: An Open-Source Revolution for Microprocessors (Meyer)
-November 19 - *OPEN* possible lightning talk sessions, senior presentations
+November 5 - RISC-V, An Open-Source Revolution for Microprocessors (Meyer)
 
-December 3 - *OPEN* possible lightning talk sessions, senior presentations
+November 19 - *OPEN* (possible lightning talks, senior presentations)
+
+December 3 - *OPEN* (possible lightning talks, senior presentations)
 
 *See topics list for suggestions for TBD*
