@@ -27,13 +27,13 @@ September 3 - Faithful Automation (Gubanyi)
 
 September 17 - Jobs: Resumes, Searching, and Career Fair Prep (Meyer, Group Workshop)
 
-October 1 - Student Check-in: Career Fair Debrief, Semester Progress Report, and Feedback + TBD
+October 8 - Meyer, RISC-V, An Open-Source Revolution for Microprocessors
 
-October 15 - Fall Break, No Colloquium
+October 15 - Fall Break, No meet
 
-October 22 - Panel Discussion: The Impact of AI on Society (tentative date & title)
+October 22 - Chris Cassel, Assurity
 
-November 5 - RISC-V, An Open-Source Revolution for Microprocessors (Meyer)
+November 5 - Larry Middendorf, CBMC Area Director
 
 November 19 - *OPEN* (possible lightning talks, senior presentations)
 
