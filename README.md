@@ -27,7 +27,7 @@ September 3 - Faithful Automation (Gubanyi)
 
 September 17 - Jobs: Resumes, Searching, and Career Fair Prep (Meyer, Group Workshop)
 
-October 8 - Meyer, RISC-V, An Open-Source Revolution for Microprocessors
+October 8 - Meyer, "RISC-V: An Open-Source Revolution for Microprocessors"
 
 October 15 - Fall Break, No meet
 
